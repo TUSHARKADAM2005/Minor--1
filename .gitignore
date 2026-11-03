@@ -1,0 +1,12 @@
+# secrets
+.env
+.env.local
+.env*.local
+
+# dependencies and build output (for when you add the frontend)
+node_modules/
+.next/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
